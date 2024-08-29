@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Base64File.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--action frombase64 --source \"C:\\Projets\\2406-SGCIB\\out.xml.b64\" --sink \"C:\\Projets\\2406-SGCIB\\out.xml.b64.xml\""
+    }
+  }
+}
